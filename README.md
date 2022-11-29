@@ -1,9 +1,9 @@
 # arkanoid
-Object-Oriented Programming
+### Object-Oriented Programming
 
-- OS: Windows 10
-- compiler type/version: Visual C++ 2022
-- compilation method: Visual Studio 2022
+OS: Windows 10<br>
+compiler type/version: Visual C++ 2022<br>
+compilation method: Visual Studio 2022<br>
 
 - How to execute
 1. In the directory 20201776_proj3, click 'VirtualLego.sln' file
